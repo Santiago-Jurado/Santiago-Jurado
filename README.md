@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ✋  Hi, I'm **Santiago Jurado**
+- 🌱  I'm passionate about life, nature and peace!
+- 🔆  I'm interested in Antropology.
+- 📖  I'm a student at Colegio Seminario School.
+- 🐙  Fighting for life that death is already certain.
+- 🚲  I like to ride a bike.
+- 💠  I'm learning from everyone around me and from the environment in which I live.
+- ⚡  Fun Fact: Nothing serious
+- 🖥️  You can find me on twitter like [__@Santiago_jurad0__](https://twitter.com/Santiago_jurad0?s=08)
+- Mail: <david.jurador@colseminario.edu.co>
